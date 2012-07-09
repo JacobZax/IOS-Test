@@ -36,6 +36,7 @@
 - (void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
+    //still going strong. This could be it.
 }
 
 - (void)viewDidAppear:(BOOL)animated
